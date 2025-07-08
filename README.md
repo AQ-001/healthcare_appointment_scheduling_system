@@ -20,13 +20,13 @@ This project contains the SQL schema and sample data for a **Healthcare Appointm
   Manage payments, due amounts, and insurance claims.
 
 - **Doctors**  
-  Store details like specialization, contact info, and availability.
+  Store details like specialisation, contact info, and availability.
 
 - **Medical Records**  
   Record diagnoses, prescriptions, test results, and doctor notes.
 
 - **Patients & Personnel**  
-  Centralized person table linked with patient, doctor, and staff roles.
+  Centralised person table linked with patient, doctor, and staff roles.
 
 - **Notifications**  
   Automated reminders and status updates.
@@ -57,10 +57,14 @@ This project contains the SQL schema and sample data for a **Healthcare Appointm
 - Academic assignments or database coursework
 - Data analytics for medical operations
 
-## 📜 License
+## 📜 Licence
 
 This project is shared for **educational and demonstration purposes**. Feel free to use, modify, or extend it.
 
 ---
 
 Feel free to ⭐️ this repo if you find it helpful!
+
+
+[ERD Diagram.pdf](https://github.com/user-attachments/files/21125159/ERD.Diagram.pdf)
+
