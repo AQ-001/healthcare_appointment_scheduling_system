@@ -67,5 +67,6 @@ Feel free to ⭐️ this repo if you find it helpful!
 
 
 ![ERD Diagram-Page-1](https://github.com/user-attachments/assets/6fd23257-b86c-4a87-a011-abebecc6eb6e)
+
 ![ERD Diagram-Page-2](https://github.com/user-attachments/assets/95f67aa7-a8f3-4172-906c-16e5c071d36a)
 
